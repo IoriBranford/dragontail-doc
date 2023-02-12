@@ -1,0 +1,12 @@
+site_name: Rose of Dragontail
+nav:
+  - Top: 'index.md'
+  - Design:
+    - 'overview.md'
+    - 'gameplay.md'
+    - 'mechanics.md'
+    - 'story.md'
+    - 'world.md'
+    - 'characters.md'
+    - 'levels.md'
+    - 'interface.md'
