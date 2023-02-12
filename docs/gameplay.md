@@ -22,13 +22,13 @@ Enemies in later stages use more difficult fighting techniques.
 1.  Title.
 2.  Main Menu.
 3.  Campaign:
-4.  Each stage in order:
-    1. Stage Intro Story.
-    2. Stage Gameplay. If ends unsuccessfully, go to Game Over.
-    3. Stage Concluding Story. Advance to next stage.
-5.  Game Over. Player's choices:
-    1. Continue. Go to Stage Gameplay, put Rose at last reached checkpoint or stage start.
-    2. End. Go to Title.
+    1.  Each stage in order:
+        1.  Stage Intro Story.
+        2.  Stage Gameplay. If ends unsuccessfully, go to Game Over.
+        3.  Stage Concluding Story. Advance to next stage.
+4.  Game Over. Player's choices:
+    1.  Continue. Go to Stage Gameplay, put Rose at last reached checkpoint or stage start.
+    2.  End. Go to Title.
 
 ## Stage Structure
 
