@@ -1,4 +1,5 @@
 site_name: Rose of Dragontail
+theme: material
 nav:
   - Top: 'index.md'
   - Design:
