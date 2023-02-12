@@ -1,14 +1,10 @@
 # Overview
 
-Rose of Dragontail is a fantasy belt-scrolling brawler game.
-
 ## Concept
 
-The dragon-child Rose wields draconic powers in battle against mobs of criminals and monsters. She must journey across the dragon isles and drink from all the hidden blood fountains to complete her transformation before she dies of thirst.
+Rose of Dragontail is a fantasy belt-scrolling brawler game for ages 13 and up.
 
-## Target Audience
-
-The target audience is fantasy and fighting fans 13 years or older.
+Rose, a girl undergoing dragon transformation, battles criminals and monsters with her draconic powers. She must journey across the Dragon Isles and drink from all the hidden blood fountains to complete her transformation before she dies of thirst.
 
 ## Flow
 
@@ -16,4 +12,4 @@ A stage is a linear sequence of combat arenas connected by corridors. Before eac
 
 ## Look and Feel
 
-Rose of Dragontail is set in a colorful pixel fantasy world. The gameplay and interface feel smooth, fast, and impactful.
+Rose of Dragontail is set in a colorful pixel fantasy world with minor anime and manga influence. The gameplay and interface feel smooth, fast, and impactful.
