@@ -14,9 +14,7 @@ This game brings arcade beat-em-up action to the fantasy realm, where you can fi
 
 *Who is the player? What is the setting? What is the fantasy the game grants the player? What emotions do you want the player to feel? What keeps the player engaged for the duration of their play?*
 
-You play Rose, a coastal village girl in a 16th-17th-century fantasy land. After her first taste of dragon blood, she has begun to transform into a dragon.
-
-As Rose, you experience the thrill of heroic battles using dragon powers against mobs of villains. 
+You play Rose, a coastal village girl in a 16th-17th-century fantasy land. After her first taste of dragon blood, she has begun to transform into a dragon. As Rose, enjoy growing your dragon powers and using them in exciting heroic battles against mobs of villains. Each drink of dragon blood advances Rose's transformation, unlocking new draconic moves.
 
 ## Visual and Audio Style
 
@@ -62,12 +60,13 @@ The object of the game is to have Rose drink from all the dragon blood fountains
 
 Player-facing systems
 
-- Fighting physics - striking, grabbing, throwing, slamming into walls or hazards
+- Fighting physics - striking, grabbing, throwing, slamming into walls or hazards, bouncing between walls after powerful throws
 - Fighter condition - health, ability to attack and move
+- Player growth - what powers and health upgrades have been gained
 
 Internal systems
 
-- Enemy dispatch - add enemies when player advances to certain points in the level
+- Enemy dispatch - add enemies when player advances to certain points in the level or fulfills some other conditions
 - Enemy behavior - decide move and attack based on situation and skill level
 
 ## Interactivity
