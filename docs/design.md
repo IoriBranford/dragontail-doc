@@ -1,8 +1,7 @@
 ## Concept Statement
 In one or two sentences (“your game in a tweet,” or “a few words that create a question”) describe the most important aspects of your game. What is its theme and setting? What makes the game fun? How many players are there? Is it a quick pick-up game or a huge epic? Why would someone want to play the game?
 
-Don’t try to cram too much information into a quick statement, but don’t leave out vital aspects of your game either. This can be a tough balancing act. Expect to spend some time iterating and
-polishing this.
+Don’t try to cram too much information into a quick statement, but don’t leave out vital aspects of your game either. This can be a tough balancing act. Expect to spend some time iterating and polishing this.
 
 ## Genre
 
