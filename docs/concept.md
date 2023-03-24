@@ -28,9 +28,15 @@ The aesthetic is colorful pixel fantasy with minor anime and manga influence. Th
 
 *Briefly describe the game world and any narrative in player-relevant terms (as presented to the player).*
 
+The game is set on a dragon-shaped chain of islands called the Dragon Isles. At the southern tail end is Rose's village of Dragontail. The King rules from his castle in the city of Dragonheart.
+
+The Dragon Child is the legendary heroine of the Dragon Isles. The legend says a young woman transformed into the Isles' avatar to protect them from an unspecified catastrophe.
+
 ## Monetization
 
 *How will the game make money? Premium purchase? F2P? How do you justify this within the design?*
+
+The game will be sold premium on digital stores.
 
 ## Platform(s), Technology, and Scope (brief)
 
@@ -47,6 +53,8 @@ The team is a single developer as programmer, designer, and producer. Art, music
 ## Objectives and Progression
 
 *How does the player move through the game, literally and figuratively, from tutorial to end? What are their short-term and long-term goals (explicit or implicit)? How do these support the game concept, style, and player-fantasy?*
+
+The object of the game is to have Rose drink from all the dragon blood fountains in the dragon isles and complete her transformation into the dragon child. She is guided by visions of the remaining fountains and an unquenchable thirst for the blood therein. If Rose does not complete the transformation in time, she will die of thirst.
 
 ## Game Systems
 
@@ -65,3 +73,7 @@ Internal systems
 ## Interactivity
 
 *How are different kinds of interactivity used? (Action/Feedback, ST Cog, LT Cog, Emotional, Social, Cultural) What is the player doing moment-by-moment? How does the player move through the world? How does physics/combat/etc. work? A clear, professional-looking sketch of the primary game UX is helpful.*
+
+Rose of Dragontail is playable with a controller, arcade stick, or keyboard.
+
+Move Rose through the world with direction input. Enemies approach to fight Rose at set locations. Use action buttons to attack the enemies and direction input for grappling and defensive techniques. Bodies can be thrown into breakable objects and hazards to deal additional damage and leave marks on the environment.
